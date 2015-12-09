@@ -13,3 +13,5 @@ As a potential Essential Goodness Client, I want to be able to view the online c
 
 Link to wireframe:
 https://wireframe.cc/sS7XLq
+
+Link to ERD: https://www.gliffy.com/go/html5/9619621?app=1b5094b0-6042-11e2-bcfd-0800200c9a66
